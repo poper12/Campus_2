@@ -6,7 +6,7 @@ env_vars = {
   #Get For @BotFather
   "BOT_TOKEN": "8086700219:AAFANCbRZqMAzNe3vwWLkzKiPhdbW2SCRXE",
   # Get For tembo.io
-  "DATABASE_URL_PRIMARY": "postgresql://postgres:ZBDQ5qhw4U9n0mil@peaceably-present-anteater.data-1.use1.tembo.io:5432/postgres",
+  "DATABASE_URL_PRIMARY": "postgresql://postgres.xkmopejgtpqpppbycqkm:1234@aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres",
   # Logs Channel Username Without @
   "CACHE_CHANNEL": "Dump2075",
   # Force Subs Channel username without @
